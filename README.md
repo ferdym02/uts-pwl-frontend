@@ -26,4 +26,4 @@ npm start
 
 ### Screenshot
 
-![Screenshot Program]([image link](https://ibb.co/1T6VhBt))
+![Screenshot Program](https://ibb.co/1T6VhBt)
