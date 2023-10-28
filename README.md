@@ -5,7 +5,7 @@
 ### Masuk ke Direktori
 
 ```
-cd .\frontend\
+cd .\uts-pwl-frontend\
 ```
 
 ### Install Depedencies
