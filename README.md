@@ -24,6 +24,8 @@ npm i react-router-dom axios bulma
 npm start
 ```
 
+Pastikan sudah terlebih dahulu menjalankan backend
+
 ### Screenshot
 
 ![Screenshot Program](https://i.ibb.co/Wft9q74/Cuplikan-layar-2023-10-28-212950.png)
