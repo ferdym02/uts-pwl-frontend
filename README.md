@@ -26,4 +26,4 @@ npm start
 
 ### Screenshot
 
-![Screenshot Program](https://ibb.co/1T6VhBt)
+![Screenshot Program](https://i.ibb.co/Wft9q74/Cuplikan-layar-2023-10-28-212950.png)
